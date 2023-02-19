@@ -2,7 +2,6 @@
   {
     "name": "نمایش لحظه‌ای آلودگی هوای تهران",
     "link": "https://raw.githubusercontent.com/github-smart-bot/servers/main/air-pollution",
-    "id": "1",
-    "can": "true"
+    "id": "1"
   }
 ]
